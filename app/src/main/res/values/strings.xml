@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User App</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="new_user">New User? &#160;</string>
+    <string name="forgot_your_password">Forgot your password? &#160;</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account? &#160;</string>
+</resources>
